@@ -1,5 +1,5 @@
 # LookupUserbyComputer
-Powershell Script to look up a user's Dispaly Name using the name of the computer they're currently logged into.
+Powershell Script to look up a user's Display Name using the name of the computer they're currently logged into.
 
 # Instructions
 Copy the ps1 and bat file to c:\scripts\
